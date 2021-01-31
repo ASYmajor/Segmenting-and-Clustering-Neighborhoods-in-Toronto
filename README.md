@@ -1,0 +1,2 @@
+# Segmenting-and-Clustering-Neighborhoods-in-Toronto
+In this assignment, It is required to explore, segment, and cluster the neighborhoods in the city of Toronto based on the postalcode and borough information. For the Toronto neighborhood data, a Wikipedia page exists that has all the information we need to explore and cluster the neighborhoods in Toronto. It will be required to scrape the Wikipedia page in which the datat exist and wrangle the data, clean it, and then read it into a pandas  dataframe. 
